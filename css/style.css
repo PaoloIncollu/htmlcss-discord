@@ -34,11 +34,13 @@ img{
 
 .button{
     
-    padding: 0.5em;
+    
+    padding: 10px 15px;
     border-radius: 40px;
     text-decoration: none;
     color: black;
     background-color: white;
+    font-size: 1.1rem;
     
 }
 
@@ -108,12 +110,12 @@ hr{
 
 .header-bottom{
     
-    display: flex;
     background-image: url(../img/jumbo.png);
     width: 100%;
     min-height: 400px;
     background-size: cover;
-    background-position: center;
+    background-position: bottom center;
+    padding: 140px 0;
     
 
 }
@@ -229,9 +231,6 @@ hr{
     width: 70%;
     margin-bottom: 30px;
     align-self: center;
-    
-    
-   
     
 }
 
